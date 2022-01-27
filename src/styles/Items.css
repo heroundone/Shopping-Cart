@@ -1,0 +1,8 @@
+.catalogue {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}

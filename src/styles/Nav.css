@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content:space-evenly;
+    gap: 10vh;
+    align-items: center;
+    min-height: 10vh;
+    min-width: 100%;
+    background-color: rgb(78, 75, 75);
+    color: white;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size:xx-large;
+}
+
+a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,13 @@
+.sticky {
+    position: fixed;
+    right: 0;
+    margin-right: 15px;
+    font-size: large;
+    color: black;
+}
+
+button {
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
